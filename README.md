@@ -1,14 +1,16 @@
 # Clash Royale (browser fan game)
 
-A small, unofficial browser-playable lane strategy game inspired by Clash Royale. It uses original UI, emoji artwork, and simplified battle rules; it is not affiliated with Supercell. No build step or account required.
+An unofficial, browser-playable lane strategy game inspired by Clash Royale. It uses an original interface, CSS-drawn arena, and emoji artwork, with simplified battle rules. It is not affiliated with Supercell. No build step or account required.
 
 ## Play
 
-Open `index.html` in a modern browser, or serve this folder with any static web server. Choose a troop card, then click your side of the arena to deploy it. Elixir refills over time. Destroy the rival King Tower for an instant victory, or take more crowns before the three-minute timer ends.
+Open the Pages site: https://general-hayleom.github.io/Clash-Royale/
+
+The game opens with a short loading screen and home hub. Choose **Battle** to enter the arena. Select one of the four cards in your hand, then click your side of the field to deploy it. Cards cycle through the deck after you play them. Elixir refills over time and doubles during the final minute. Destroy the rival King Tower for an instant victory, or take more crowns before time runs out.
 
 ## Controls
 
-- Select a card in the battle deck.
-- Click the lower half of the arena to deploy troops.
-- Fireball can target anywhere on the enemy half.
-- Use the sound toggle or reset button at any time.
+- Select a troop or Fireball card from your hand.
+- Click the lower half of the arena to deploy a troop.
+- Fireball can target enemy territory.
+- Use **Home** to return to the hub, or **Reset** to restart the match.
